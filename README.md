@@ -44,4 +44,4 @@ Netflix Titles Dataset (Kaggle)
 
 ## 👨‍💻 Author
 Megharaj Patil
-🔗 LinkedIn: https://www.linkedin.com/in/megharaj-patil-447833269 https://github.com/patilmegharaj005-blip/Netflix-EDA-Content-Analysis/edit/main/README.md
+🔗 LinkedIn: https://www.linkedin.com/in/megharaj-patil-447833269 , 🔗 Github: https://github.com/patilmegharaj005-blip/Netflix-EDA-Content-Analysis/edit/main/README.md
